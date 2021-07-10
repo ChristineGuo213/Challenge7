@@ -38,7 +38,7 @@ etf_analyzer.ipynb
 
 Attached screenshots below show the different plots
 
-![PYPL_daily_returns](ETFs_by_SQL/Images/PYPL_daily_returns.png)  
+![PYPL_daily_returns](./ETFs_by_SQL/Images/PYPL_daily_returns.png)  
 
 ![PYPL_cumulative_returns](ETFs_by_SQL/Images/PYPL_cumulative_returns.png)
 
