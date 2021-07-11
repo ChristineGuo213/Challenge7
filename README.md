@@ -38,15 +38,15 @@ etf_analyzer.ipynb
 
 Attached screenshots below show the different plots
 
-![PYPL_daily_returns](ETFs_by_SQL/images/PYPL_daily_returns.PNG)  
+![PYPL_daily_returns](ETFs_by_SQL/Images/PYPL_daily_returns.PNG)  
 
-![PYPL_cumulative_returns](ETFs_by_SQL/images/PYPL_cumulative_returns.PNG)
+![PYPL_cumulative_returns](ETFs_by_SQL/Images/PYPL_cumulative_returns.PNG)
 
-![ETF_portfolio_cumulative_returns](ETFs_by_SQL/images/ETF_portfolio_cumulative_returns.PNG)
+![ETF_portfolio_cumulative_returns](ETFs_by_SQL/Images/ETF_portfolio_cumulative_returns.PNG)
 
-![running_voila_in_terminal](ETFs_by_SQL/images/running_voila_in_terminal.PNG)
+![running_voila_in_terminal](ETFs_by_SQL/Images/running_voila_in_terminal.PNG)
 
-![voila_web](ETFs_by_SQL/images/voila_web.PNG)
+![voila_web](ETFs_by_SQL/Images/voila_web.PNG)
 
 
 ---
